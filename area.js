@@ -12,3 +12,5 @@ function getArea(array){
 
     return area;
 }
+
+module.exports = getArea;

@@ -12,5 +12,9 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "jest": "^22.0.6"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
   }
 }
