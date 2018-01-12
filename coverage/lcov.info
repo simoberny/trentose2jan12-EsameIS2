@@ -18,6 +18,8 @@ BRDA:7,0,0,3
 BRDA:7,0,1,7
 BRDA:7,1,0,10
 BRDA:7,1,1,5
-BRF:4
-BRH:4
+BRDA:7,1,2,3
+BRDA:7,1,3,3
+BRF:6
+BRH:6
 end_of_record
